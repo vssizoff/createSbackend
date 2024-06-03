@@ -1,6 +1,6 @@
 {
   "name": "create-sbackend",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "npm create sbackend",
   "main": "index.mjs",
   "author": "sizoff",
@@ -12,5 +12,14 @@
     "commander": "^12.1.0",
     "prompts": "^2.4.2"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vssizoff/createSbackend"
+  },
+  "bugs": {
+    "url": "https://github.com/vssizoff/createSbackend/issues"
+  },
+  "homepage": "https://github.com/vssizoff/createSbackend#readme",
+  "readme": "README.md"
 }
